@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Resume"
+#title: "Resume"
 permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-
+[Resume](/files/Axel_AlvarengaMunoz_Resume.pdf) {:target="_blank"} \
 
 Education
 ======
