@@ -21,7 +21,7 @@ repository               : "axel-ra.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "axel_edited.png"
   name             : "Axel R. Alvarenga Munoz"
   pronouns         : # example: "she/her"  
   bio              : "Senior Computer Science student at University of Houston"
