@@ -18,6 +18,3 @@ Work experience
 * IT Intern (July 2023 - Present)
   * Borehole Seismic, LLC
   * Houston, TX
-  <* Duties includes: Updates and improvements to template>
-  <* Supervisor: The Users>
-  
