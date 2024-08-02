@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Resume](/files/Axel_AlvarengaMunoz_Resume.pdf) {:target="_blank"} \
+[Resume](/files/Axel_AlvarengaMunoz_Resume.pdf){:target="_blank"}
 
 Education
 ======
