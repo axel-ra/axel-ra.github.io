@@ -11,19 +11,22 @@ redirect_from:
 
 Education
 ======
-**Bachelor of Science in Computer Science** *Expected December 2024* <br/>
+**Bachelor of Science in Computer Science** <br/>
+*Expected December 2024* <br/>
 Minor in Mathematics <br/>
 University of Houston <br/>
 
 Work Experience
 ======
-**IT Intern** *July 2023 - Present* <br/>
+**IT Intern** <br/>
+*July 2023 - Present* <br/>
 Borehole Seismic, LLC <br/>
 Houston, TX <br/>
 
 Research Experience
 ======
-**Undergraduate Researcher** *August 2024 - Present* <br/>
+**Undergraduate Researcher** <br/>
+*August 2024 - Present* <br/>
 Independent Study <br/>
 Real-Time Systems Lab <br/>
 University of Houston <br/>
