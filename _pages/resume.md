@@ -28,8 +28,7 @@ Research Experience
 **Undergraduate Researcher** <br/>
 *August 2024 - Present* <br/>
 Independent Study <br/>
-Real-Time Systems Lab <br/>
-University of Houston <br/>
+Real-Time Systems Lab, University of Houston <br/>
 <br/>
 Field: Automated Object Detection <br/>
 
