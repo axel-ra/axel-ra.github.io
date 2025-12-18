@@ -90,7 +90,7 @@
   "publications": [
     {
       "name": "Work in Progress: Biologically Inspired Dynamic Task Prioritization in Computer Vision Systems",
-      "publisher": "Annalen der Physik",
+      "publisher": "Jeremy R. Easton-Marks, Axel Rolando Alvarenga Munoz, Albert M. K. Cheng",
       "releaseDate": "2025-05-09",
       "url": "https://doi.org/10.1109/RTAS65571.2025.00013",
       "summary": "This paper describes our work in developing a computer vision system that more closely mimics the way the human vision system operates. Autonomous vision systems are crucial for modern vehicle safety, demanding real-time object detection and prioritization without external computational resources. Current systems struggle with this on-board prioritization. This paper presents a novel approach inspired by the human eye and brain, segmenting the video input into foveal and peripheral areas for specialized processing."
